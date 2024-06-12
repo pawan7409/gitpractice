@@ -7,7 +7,10 @@ rgs={
     name= "pawan-rg"
     location= "east us"  
   }
-
+  rg99={
+    name= "pawan-rg"
+    location= "east us"  
+  }
   pagal
 
   ushka kya hoga 
