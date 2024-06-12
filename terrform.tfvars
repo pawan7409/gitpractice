@@ -7,4 +7,6 @@ rgs={
     name= "pawan-rg"
     location= "east us"  
   }
+
+  pagal
 }
